@@ -1,3 +1,3 @@
 ## Typst good
 
-###### [./resume.pdf](resume)
+###### [resume](./resume.pdf)
