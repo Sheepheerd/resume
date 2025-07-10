@@ -43,8 +43,9 @@
   dates: dates-helper(start-date: "May 2025", end-date: "Present"),
 )
 
-- Entered into a full stack web application, written in TypeScript and Go, and went through a two month journey of javascript purgatory
-- Transitioned into a RnD mindset where anything goes to get the code shipped
+- Entered into a full stack web application, written in TypeScript, Go, and Python
+- Deeply improved in my understanding of frontend development and the React framework
+- Broadend my professional scope by transitioning from work done in Software Development to work done in Reasearch and Development 
 
 
 
