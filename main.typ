@@ -44,8 +44,8 @@
 )
 
 - Entered into a full stack web application, written in TypeScript, Go, and Python
-- Deeply improved in my understanding of frontend development and the React framework
-- Broadend my professional scope by transitioning from work done in Software Development to work done in Reasearch and Development 
+- Deeply improved in my understanding of front end development and the React framework
+- Broadened my professional scope by transitioning from work done in Software Development to work done in Research and Development 
 
 
 
@@ -113,5 +113,5 @@
 // )
 
 == Skills
-- *Programming Languages*: Rust, Python, C/C++, Java, JavaScript, HTML/CSS, Bash,
+- *Programming Languages*: Rust, Python, Nix, C/C++, Java, JavaScript, HTML/CSS, Bash,
 - *Technologies*: Nix, Vim, UNIX, React, Git,  Docker, NGINX, Google Cloud Platform
