@@ -22,7 +22,6 @@
 )
 
 == Education
-
 #edu(
   institution: "Wright State University",
   location: "Dayton, OH",
@@ -37,12 +36,19 @@
 == Work Experience
 
 #work(
+  title: "IT Support Specialist",
+  location: "Dayton, OH",
+  company: "Geeksperience",
+  dates: dates-helper(start-date: "Jun 2025", end-date: "Present"),
+)
+- Helping support local businesses with IT
+
+#work(
   title: "Full Stack Intern",
   location: "Dayton, OH",
   company: "Altamira Technologies Corporation",
-  dates: dates-helper(start-date: "May 2025", end-date: "Present"),
+  dates: dates-helper(start-date: "May 2025", end-date: "Jul 2025"),
 )
-
 - Entered into a full stack web application, written in TypeScript, Go, and Python
 - Deeply improved in my understanding of front end development and the React framework
 - Broadened my professional scope by transitioning from work done in Software Development to work done in Research and Development 
@@ -55,7 +61,6 @@
   company: "Wright State University",
   dates: dates-helper(start-date: "Sep 2024", end-date: "Present"),
 )
-
 - Teaching students in an Object Oriented Class why Procedural Programming is better
 - Promoting archaic software and practices to young and conforming minds
 - Questioning why people use VSCode
@@ -98,9 +103,6 @@
   url: "play.google.com/store/apps/details?id=org.ramstudios.solitairechess",
 )
 - A chess game written in the Godot game engine"
-// -
-// -
-// -
 
 == Extracurricular Activities
 
