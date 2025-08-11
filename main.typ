@@ -16,11 +16,11 @@
   personal-site: personal-site,
   accent-color: "#26428b",
   font: "New Computer Modern",
+  font-size: 9.9pt,
   paper: "us-letter",
   author-position: center,
   personal-info-position: center,
 )
-
 #align(center, "Active Security Clearance")
 
 == Education
@@ -29,12 +29,10 @@
   location: "Dayton, OH",
   dates: dates-helper(start-date: "Aug 2023", end-date: "May 2027"),
   degree: "Bachelor's of Computer Science and Computer Engineering",
-
   consistent: true
 )
 - Cumulative GPA: 4.0\/4.0
 - Relevant Coursework: Data Structures
-
 == Work Experience
 
 #work(
