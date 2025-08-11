@@ -27,7 +27,7 @@
   institution: "Wright State University",
   location: "Dayton, OH",
   dates: dates-helper(start-date: "Aug 2023", end-date: "May 2027"),
-  degree: "Bachelor's of Science, Computer Science and Computer Engineering",
+  degree: "Bachelor's of Computer Science and Computer Engineering",
 
   consistent: true
 )
