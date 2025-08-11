@@ -44,18 +44,6 @@
 - Helping support local businesses with IT
 
 #work(
-  title: "Full Stack Intern",
-  location: "Dayton, OH",
-  company: "Altamira Technologies Corporation",
-  dates: dates-helper(start-date: "May 2025", end-date: "Jul 2025"),
-)
-- Entered into a full stack web application, written in TypeScript, Go, and Python
-- Deeply improved in my understanding of front end development and the React framework
-- Broadened my professional scope by transitioning from work done in Software Development to work done in Research and Development 
-
-
-
-#work(
   title: "Java Teaching Assistant",
   location: "Dayton, OH",
   company: "Wright State University",
@@ -64,6 +52,16 @@
 - Teaching students in an Object Oriented Class why Procedural Programming is better
 - Promoting archaic software and practices to young and conforming minds
 - Questioning why people use VSCode
+
+#work(
+  title: "Full Stack Intern",
+  location: "Dayton, OH",
+  company: "Altamira Technologies Corporation",
+  dates: dates-helper(start-date: "May 2025", end-date: "Jul 2025"),
+)
+- Entered into a full stack web application, written in TypeScript, Go, and Python
+- Deeply improved in my understanding of front end development and the React framework
+- Broadened my professional scope by transitioning from work done in Software Development to work done in Research and Development 
 
 #work(
   title: "Software Development Intern",
