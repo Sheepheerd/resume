@@ -21,6 +21,8 @@
   personal-info-position: center,
 )
 
+#align(center, "Active Security Clearance")
+
 == Education
 #edu(
   institution: "Wright State University",
