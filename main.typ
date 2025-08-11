@@ -84,14 +84,20 @@
 == Projects
 
 #project(
-  name: "IN THE WORKS...will be incredible",
-  // Role is optional
-  // role: "Maintainer",
-  // Dates is optional
+  role: "Maintainer",
+  name: "Mynk-db",
   // dates: dates-helper(start-date: "", end-date: "Present"),
-  // URL is also optional
-  // url: "prob something on heerd.dev",
+  url: "github.com/Sheepheerd/mynk-db",
 )
+- A syncthing clone written in C
+
+#project(
+
+  role: "Maintainer",
+  name: "Solitaire-Chess",
+  url: "play.google.com/store/apps/details?id=org.ramstudios.solitairechess",
+)
+- A chess game written in the Godot game engine"
 // -
 // -
 // -
@@ -113,5 +119,5 @@
 // )
 
 == Skills
-- *Programming Languages*: Rust, Python, Nix, C/C++, Java, JavaScript, HTML/CSS, Bash,
+- *Programming Languages*: Rust, Python, Nix, C/C++, Java, JavaScript, Godot, HTML/CSS, Bash,
 - *Technologies*: Nix, Vim, UNIX, React, Git,  Docker, NGINX, Google Cloud Platform
