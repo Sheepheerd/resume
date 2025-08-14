@@ -32,7 +32,7 @@
   consistent: true
 )
 - Cumulative GPA: 4.0\/4.0
-- Relevant Coursework: Data Structures
+- Relevant Coursework: Data Structures, Calculus II, Physics II, Digital Systems and their Designs
 == Work Experience
 
 #work(
