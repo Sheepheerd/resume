@@ -49,9 +49,9 @@
   company: "Wright State University",
   dates: dates-helper(start-date: "Sep 2024", end-date: "Present"),
 )
-- Teaching students in an Object Oriented Class why Procedural Programming is better
+- Helping teach students the Object Oriented Paradigm 
 - Promoting archaic software and practices to young and conforming minds
-- Questioning why people use VSCode
+- Teaching students how to think
 
 #work(
   title: "Full Stack Intern",
