@@ -32,14 +32,14 @@
   consistent: true
 )
 - Cumulative GPA: 4.0\/4.0
-- Relevant Coursework: Data Structures, Calculus II, Physics II, Digital Systems and their Designs
+- Relevant Coursework: Data Structures, Differential Equations, Digital Systems and their Designs, FPGH and VHDL
 == Work Experience
 
 #work(
   title: "IT Support Specialist",
   location: "Dayton, OH",
   company: "Geeksperience",
-  dates: dates-helper(start-date: "Jun 2025", end-date: "Present"),
+  dates: dates-helper(start-date: "Jun 2025", end-date: "Sep 2025"),
 )
 - Helping support local businesses with IT
 
@@ -98,7 +98,7 @@
 
   role: "Maintainer",
   name: "Solitaire-Chess",
-  url: "play.google.com/store/apps/details?id=org.ramstudios.solitairechess",
+  url: "github.com/Sheepheerd/solitaire-chess",
 )
 - A chess game written in the Godot game engine"
 
@@ -119,5 +119,5 @@
 // )
 
 == Skills
-- *Programming Languages*: Rust, Python, Nix, C/C++, Java, JavaScript, Godot, HTML/CSS, Bash,
-- *Technologies*: Nix, Vim, UNIX, React, Git,  Docker, NGINX, Google Cloud Platform
+- *Programming Languages*: Rust, Python, Nix, C/C++, Java, JavaScript, Godot, HTML/CSS, Bash
+- *Technologies*: NixOS, Nix, Vim, UNIX, React, Git, Docker, NGINX, Google Cloud Platform
