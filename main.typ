@@ -32,7 +32,7 @@
   consistent: true
 )
 - Cumulative GPA: 4.0\/4.0
-- Relevant Coursework: Data Structures, Differential Equations, Digital Systems and their Designs, FPGH and VHDL
+- Relevant Coursework: Data Structures, Differential Equations, Digital Systems and their Designs, FPGA and VHDL
 == Work Experience
 
 #work(
