@@ -1,3 +1,3 @@
 ## Typst good
 
-###### [resume](./resume.pdf)
+###### [resume](https://github.com/Sheepheerd/resume/releases)
