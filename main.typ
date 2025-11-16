@@ -27,8 +27,8 @@
 #edu(
   institution: "Wright State University",
   location: "Dayton, OH",
-  dates: dates-helper(start-date: "Aug 2023", end-date: "May 2027"),
-  degree: "Bachelor's of Computer Science and Computer Engineering",
+  dates: dates-helper(start-date: "Aug 2023", end-date: "Dec 2026"),
+  degree: "Bachelor's of Computer Engineering",
   consistent: true
 )
 - Cumulative GPA: 4.0\/4.0
