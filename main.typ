@@ -1,4 +1,4 @@
-#import "@preview/basic-resume:0.2.8": *
+#import "@preview/basic-resume:0.2.9": *
 
 #let name = "Shepard Garrett"
 #let location = "Dayton, OH"
