@@ -1,8 +1,8 @@
 name: Compile Typst and Release PDF
 on:
   push:
-    branches:
-      - "**"
+    tags:
+      - "v*"
 
 jobs:
   build-and-release:
