@@ -16,7 +16,7 @@
   personal-site: personal-site,
   accent-color: "#26428b",
   font: "New Computer Modern",
-  font-size: 9.9pt,
+  font-size: 9.4pt,
   paper: "us-letter",
   author-position: center,
   personal-info-position: center,
@@ -105,6 +105,16 @@
 == Extracurricular Activities
 
 #extracurriculars(
+  activity: "Vice President: Association for Computing Machinery WSU Chapter",
+  dates: dates-helper(start-date: "Dec 4, 2025", end-date: "Current"),
+)
+
+#extracurriculars(
+  activity: "Tau Beta Pi Memeber",
+  dates: dates-helper(start-date: "Nov 21, 2025", end-date: "Current"),
+)
+  
+#extracurriculars(
   activity: "Hackathon",
   dates: dates-helper(start-date: "Jan 31, 2025", end-date: "Feb 1, 2025"),
 )
@@ -119,5 +129,5 @@
 // )
 
 == Skills
-- *Programming Languages*: Rust, Python, Nix, C/C++, Java, JavaScript, Godot, HTML/CSS, Bash
+- *Programming Languages*: C, Rust, Python, Nix, C++, Java, JavaScript, Godot, HTML/CSS, Bash
 - *Technologies*: NixOS, Nix, Vim, UNIX, React, Git, Docker, NGINX, Google Cloud Platform
