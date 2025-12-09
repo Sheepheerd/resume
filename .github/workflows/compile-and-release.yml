@@ -1,8 +1,6 @@
 name: Compile Typst and Release PDF
 on:
   push:
-    tags:
-      - "v*"
 
 jobs:
   build-and-release:
